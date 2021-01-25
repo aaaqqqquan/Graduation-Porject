@@ -1,0 +1,4 @@
+include ':opencv'
+include ':app'
+rootProject.name = "RGBD_ObstructionDetection"
+
